@@ -1,0 +1,4 @@
+eat<p id="result" style="color:white">comer
+life<p id="result" style="color:white">viver
+run<p id="result" style="color:white">correr
+chasing<p id="result" style="color:white">perseguindo

@@ -1,0 +1,207 @@
+How are you?<p id="result" style="color:white">Como você está?
+What is your name?<p id="result" style="color:white">Qual é o seu nome?
+Where are you from?<p id="result" style="color:white">De onde você é?
+I don't understand.<p id="result" style="color:white">Eu não entendo.
+Can you help me?<p id="result" style="color:white">Você pode me ajudar?
+I love you.<p id="result" style="color:white">Eu te amo.
+Thank you very much.<p id="result" style="color:white">Muito obrigado(a).
+Sorry, I'm late.<p id="result" style="color:white">Desculpe, estou atrasado(a).
+Excuse me, where is the bank?<p id="result" style="color:white">Com licença, onde fica o banco?
+Could you repeat that, please?<p id="result" style="color:white">Você poderia repetir, por favor?
+How much does it cost?<p id="result" style="color:white">Quanto custa isso?
+Where is the bathroom?<p id="result" style="color:white">Onde fica o banheiro?
+I'm hungry.<p id="result" style="color:white">Estou com fome.
+Can I have the menu, please?<p id="result" style="color:white">Posso ver o cardápio, por favor?
+What time is it?<p id="result" style="color:white">Que horas são?
+I need a doctor.<p id="result" style="color:white">Preciso de um médico.
+Where can I find a taxi?<p id="result" style="color:white">Onde posso encontrar um táxi?
+Can you speak English?<p id="result" style="color:white">Você fala inglês?
+I want to go to the airport.<p id="result" style="color:white">Eu quero ir para o aeroporto.
+What's your favorite movie?<p id="result" style="color:white">Qual é o seu filme favorito?
+Do you have any recommendations?<p id="result" style="color:white">Você tem alguma recomendação?
+How do you say "hello" in Portuguese?<p id="result" style="color:white">Como se diz "olá" em português?
+I'm going to the supermarket.<p id="result" style="color:white">Eu vou ao supermercado.
+Can you please pass me the salt?<p id="result" style="color:white">Você pode me passar o sal, por favor?
+What's the weather like today?<p id="result" style="color:white">Como está o tempo hoje?
+Can I pay with a credit card?<p id="result" style="color:white">Posso pagar com cartão de crédito?
+Do you have any vegetarian options?<p id="result" style="color:white">Você tem alguma opção vegetariana?
+I'm sorry, I don't speak Portuguese.<p id="result" style="color:white">Desculpe, eu não falo português.
+What's your favorite music genre?<p id="result" style="color:white">Qual é o seu gênero de música favorito?
+I'm going on vacation next week.<p id="result" style="color:white">Eu vou de férias na próxima semana.
+Happy birthday!<p id="result" style="color:white">Feliz aniversário!
+Congratulations!<p id="result" style="color:white">Parabéns!
+Have a nice day!<p id="result" style="color:white">Tenha um bom dia!
+What's your favorite color?<p id="result" style="color:white">Qual é a sua cor favorita?
+I'm sorry for the inconvenience.<p id="result" style="color:white">Desculpe pelo inconveniente.
+Can you recommend a good restaurant?<p id="result" style="color:white">Você pode me recomendar um bom restaurante?
+Where can I buy tickets?<p id="result" style="color:white">Onde posso comprar ingressos?
+I'm lost.<p id="result" style="color:white">Estou perdido(a).
+Could you please speak more slowly?<p id="result" style="color:white">Você poderia falar mais devagar, por favor?
+What's the date today?<p id="result" style="color:white">Qual é a data de hoje?
+I'm looking for a hotel.<p id="result" style="color:white">Estou procurando um hotel.
+How far is it?<p id="result" style="color:white">Quão longe é?
+I don't know.<p id="result" style="color:white">Eu não sei.
+What's your favorite book?<p id="result" style="color:white">Qual é o seu livro favorito?
+Can you show me on the map?<p id="result" style="color:white">Você pode me mostrar no mapa?
+I need a taxi.<p id="result" style="color:white">Eu preciso de um táxi.
+Do you accept credit cards?<p id="result" style="color:white">Vocês aceitam cartão de crédito?
+What's your email address?<p id="result" style="color:white">Qual é o seu endereço de email?
+Can you recommend a good movie?<p id="result" style="color:white">Você pode me recomendar um bom filme?
+Where can I find a pharmacy?<p id="result" style="color:white">Onde posso encontrar uma farmácia?
+I'm going to the beach.<p id="result" style="color:white">Eu vou para a praia.
+Do you have any allergies?<p id="result" style="color:white">Você tem alguma alergia?
+How do I get to the museum?<p id="result" style="color:white">Como chego ao museu?
+I'm interested in learning Portuguese.<p id="result" style="color:white">Estou interessado(a) em aprender português.
+What's the WiFi password?<p id="result" style="color:white">Qual é a senha do WiFi?
+Can I have a glass of water, please?<p id="result" style="color:white">Posso ter um copo de água, por favor?
+What's the capital of Brazil?<p id="result" style="color:white">Qual é a capital do Brasil?
+I'm here on vacation.<p id="result" style="color:white">Estou aqui de férias.
+Can you recommend a good book?<p id="result" style="color:white">Você pode me recomendar um bom livro?
+What's your favorite food?<p id="result" style="color:white">Qual é a sua comida favorita?
+Can you help me find my way?<p id="result" style="color:white">Você pode me ajudar a encontrar o caminho?
+I need to make a phone call.<p id="result" style="color:white">Preciso fazer uma ligação.
+What's the nearest bus stop?<p id="result" style="color:white">Qual é o ponto de ônibus mais próximo?
+Can you please repeat that?<p id="result" style="color:white">Você poderia repetir, por favor?
+I'm excited about the trip.<p id="result" style="color:white">Estou animado(a) com a viagem.
+I'm going to the cinema tonight.<p id="result" style="color:white">Vou ao cinema hoje à noite.
+What's the best way to get there?<p id="result" style="color:white">Qual é a melhor maneira de chegar lá?
+Can I have the check, please?<p id="result" style="color:white">Posso ter a conta, por favor?
+I'm looking for a job.<p id="result" style="color:white">Estou procurando um emprego.
+How do I get to the train station?<p id="result" style="color:white">Como chego à estação de trem?
+Can you recommend a good hotel?<p id="result" style="color:white">Você pode me recomendar um bom hotel?
+Do you have any recommendations for local attractions?<p id="result" style="color:white">Você tem alguma recomendação de atrações locais?
+Where can I find an ATM?<p id="result" style="color:white">Onde posso encontrar um caixa eletrônico?
+I'm interested in history.<p id="result" style="color:white">Tenho interesse em história.
+What's the price?<p id="result" style="color:white">Qual é o preço?
+Can you help me with my luggage?<p id="result" style="color:white">Você pode me ajudar com minha bagagem?
+I'm not feeling well.<p id="result" style="color:white">Não estou me sentindo bem.
+Do you have a menu in English?<p id="result" style="color:white">Vocês têm um cardápio em inglês?
+How long will it take?<p id="result" style="color:white">Quanto tempo vai levar?
+Can you recommend a good place to visit?<p id="result" style="color:white">Você pode me recomendar um bom lugar para visitar?
+I'm sorry, I don't have change.<p id="result" style="color:white">Desculpe, não tenho troco.
+What's the nearest hospital?<p id="result" style="color:white">Qual é o hospital mais próximo?
+Can I have a receipt, please?<p id="result" style="color:white">Posso ter um recibo, por favor?
+I need to buy a ticket.<p id="result" style="color:white">Preciso comprar um ingresso.
+Do you speak English?<p id="result" style="color:white">Você fala inglês?
+How can I get a taxi here?<p id="result" style="color:white">Como posso conseguir um táxi aqui?
+Can you recommend a good place to eat?<p id="result" style="color:white">Você pode me recomendar um bom lugar para comer?
+I'm meeting a friend at the restaurant.<p id="result" style="color:white">Vou encontrar um amigo(a) no restaurante.
+What's the weather forecast for tomorrow?<p id="result" style="color:white">Qual é a previsão do tempo para amanhã?
+Can I have a coffee, please?<p id="result" style="color:white">Posso tomar um café, por favor?
+I'm going shopping.<p id="result" style="color:white">Vou fazer compras.
+Is there a bank nearby?<p id="result" style="color:white">Há um banco por perto?
+Can you please speak louder?<p id="result" style="color:white">Você pode falar mais alto, por favor?
+I'll have the chicken, please.<p id="result" style="color:white">Vou querer o frango, por favor.
+I'm going to study.<p id="result" style="color:white">Vou estudar.
+What time does the restaurant open?<p id="result" style="color:white">A que horas o restaurante abre?
+Can you recommend a good bar?<p id="result" style="color:white">Você pode me recomendar um bom bar?
+I'll be right back.<p id="result" style="color:white">Volto já.
+How can I get to the beach?<p id="result" style="color:white">Como posso chegar à praia?
+Do you have any vegetarian dishes?<p id="result" style="color:white">Vocês têm pratos vegetarianos?
+I'm here for a business meeting.<p id="result" style="color:white">Estou aqui para uma reunião de negócios.
+Where can I find a taxi stand?<p id="result" style="color:white">Onde posso encontrar um ponto de táxi?
+Can you help me find my hotel?<p id="result" style="color:white">Você pode me ajudar a encontrar meu hotel?
+I don't have a reservation.<p id="result" style="color:white">Não tenho uma reserva.
+How far is the train station?<p id="result" style="color:white">Quão longe fica a estação de trem?
+Can I try this on?<p id="result" style="color:white">Posso experimentar isso?
+Is there a pharmacy nearby?<p id="result" style="color:white">Há uma farmácia por perto?
+Can you recommend a good museum?<p id="result" style="color:white">Você pode me recomendar um bom museu?
+I'm going to the concert tonight.<p id="result" style="color:white">Vou ao show hoje à noite.
+How much does this cost?<p id="result" style="color:white">Quanto custa isso?
+Can you speak more slowly, please?<p id="result" style="color:white">Você pode falar mais devagar, por favor?
+I'm visiting from out of town.<p id="result" style="color:white">Estou visitando de fora da cidade.
+Where is the nearest subway station?<p id="result" style="color:white">Onde fica a estação de metrô mais próxima?
+Can I have a glass of red wine?<p id="result" style="color:white">Posso ter uma taça de vinho tinto?
+I need to make a reservation.<p id="result" style="color:white">Preciso fazer uma reserva.
+Do you have a charger I can borrow?<p id="result" style="color:white">Você tem um carregador que posso emprestar?
+How do I get to the city center?<p id="result" style="color:white">Como chego ao centro da cidade?
+Can you recommend a good park?<p id="result" style="color:white">Você pode me recomendar um bom parque?
+I'm attending a conference.<p id="result" style="color:white">Estou participando de uma conferência.
+What's the nearest coffee shop?<p id="result" style="color:white">Qual é a cafeteria mais próxima?
+Can you please speak English?<p id="result" style="color:white">Você pode falar em inglês, por favor?
+Is there a nearby gas station?<p id="result" style="color:white">Há um posto de gasolina por perto?
+Can I have a table for two, please?<p id="result" style="color:white">Posso ter uma mesa para dois, por favor?
+I'm going for a walk.<p id="result" style="color:white">Vou dar um passeio.
+What's the best time to visit?<p id="result" style="color:white">Qual é a melhor época para visitar?
+Can you recommend a good bakery?<p id="result" style="color:white">Você pode me recomendar uma boa padaria?
+I'm attending a wedding.<p id="result" style="color:white">Estou participando de um casamento.
+Where can I find a restroom?<p id="result" style="color:white">Onde posso encontrar um banheiro?
+Can you please pass me the menu?<p id="result" style="color:white">Você pode me passar o cardápio, por favor?
+I'm going to the grocery store.<p id="result" style="color:white">Eu vou ao supermercado.
+What's the best way to get to the airport?<p id="result" style="color:white">Qual é a melhor maneira de chegar ao aeroporto?
+Can you recommend a good coffee shop?<p id="result" style="color:white">Você pode me recomendar uma boa cafeteria?
+I'll have the steak, medium rare.<p id="result" style="color:white">Vou querer o bife, mal passado.
+Do you have any available rooms?<p id="result" style="color:white">Vocês têm quartos disponíveis?
+How can I get to the museum?<p id="result" style="color:white">Como posso chegar ao museu?
+Can I have the bill, please?<p id="result" style="color:white">Posso ter a conta, por favor?
+I'm sorry, I don't have exact change.<p id="result" style="color:white">Desculpe, não tenho o troco exato.
+What's the best time to visit?<p id="result" style="color:white">Qual é a melhor hora para visitar?
+Can I have a window seat, please?<p id="result" style="color:white">Posso ter um assento na janela, por favor?
+I'm attending a concert tonight.<p id="result" style="color:white">Vou ao show/concerto esta noite.
+Where is the nearest post office?<p id="result" style="color:white">Onde fica a agência dos correios mais próxima?
+Can you recommend a good hiking trail?<p id="result" style="color:white">Você pode me recomendar uma boa trilha para caminhada?
+I'm looking for a souvenir.<p id="result" style="color:white">Estou procurando uma lembrança.
+What's the nearest hotel?<p id="result" style="color:white">Qual é o hotel mais próximo?
+Can I have a vegetarian option, please?<p id="result" style="color:white">Posso ter uma opção vegetariana, por favor?
+I'm going to the library.<p id="result" style="color:white">Eu vou à biblioteca.
+Is there a taxi stand nearby?<p id="result" style="color:white">Há um ponto de táxi por perto?
+Can you please speak more clearly?<p id="result" style="color:white">Você pode falar mais claramente, por favor?
+I'm interested in art.<p id="result" style="color:white">Tenho interesse em arte.
+What's the nearest metro station?<p id="result" style="color:white">Qual é a estação de metrô mais próxima?
+Can I have a receipt, please?<p id="result" style="color:white">Posso ter um recibo, por favor?
+I'm going to the park.<p id="result" style="color:white">Eu vou ao parque.
+Do you have a menu in Portuguese?<p id="result" style="color:white">Vocês têm um cardápio em português?
+How far is it to the city center?<p id="result" style="color:white">Quão longe fica do centro da cidade?
+Can you recommend a good seafood restaurant?<p id="result" style="color:white">Você pode me recomendar um bom restaurante de frutos do mar?
+I need to withdraw some cash.<p id="result" style="color:white">Preciso sacar algum dinheiro.
+What's the nearest bus station?<p id="result" style="color:white">Qual é o ponto de ônibus mais próximo?
+Can you please speak slower?<p id="result" style="color:white">Você pode falar mais devagar, por favor?
+I'm meeting a friend at the mall.<p id="result" style="color:white">Vou encontrar um amigo(a) no shopping.
+What's the weather like today?<p id="result" style="color:white">Como está o tempo hoje?
+Can you recommend a good sightseeing tour?<p id="result" style="color:white">Você pode me recomendar um bom passeio turístico?
+I'm going to the pharmacy.<p id="result" style="color:white">Vou à farmácia.
+Where is the nearest police station?<p id="result" style="color:white">Onde fica a delegacia de polícia mais próxima?
+Can I have a glass of orange juice, please?<p id="result" style="color:white">Posso ter um copo de suco de laranja, por favor?
+I'm interested in learning about the culture.<p id="result" style="color:white">Tenho interesse em aprender sobre a cultura.
+What's the best restaurant in town?<p id="result" style="color:white">Qual é o melhor restaurante da cidade?
+Can you help me with directions?<p id="result" style="color:white">Você pode me ajudar com as direções?
+I'm here for a job interview.<p id="result" style="color:white">Estou aqui para uma entrevista de emprego.
+How can I apply for a visa?<p id="result" style="color:white">Como posso solicitar um visto?
+Can you recommend a good shopping mall?<p id="result" style="color:white">Você pode me recomendar um bom shopping?
+I'm sorry, I don't understand.<p id="result" style="color:white">Desculpe, eu não entendo.
+What's the nearest parking lot?<p id="result" style="color:white">Qual é o estacionamento mais próximo?
+Can I have a cup of tea, please?<p id="result" style="color:white">Posso tomar uma xícara de chá, por favor?
+I'm going to visit the historic sites.<p id="result" style="color:white">Vou visitar os locais históricos.
+How long does it take to get there?<p id="result" style="color:white">Quanto tempo leva para chegar lá?
+Can you recommend a good live music venue?<p id="result" style="color:white">Você pode me recomendar um bom local com música ao vivo?
+I'm looking for a specific book.<p id="result" style="color:white">Estou procurando um livro específico.
+What's the nearest bus terminal?<p id="result" style="color:white">Qual é o terminal de ônibus mais próximo?
+Can you please repeat that?<p id="result" style="color:white">Você pode repetir, por favor?
+I'm attending a seminar.<p id="result" style="color:white">Estou participando de um seminário.
+Where can I find a good bakery?<p id="result" style="color:white">Onde posso encontrar uma boa padaria?
+I'm going to the art gallery.<p id="result" style="color:white">Vou à galeria de arte.
+Can you recommend a good place for hiking?<p id="result" style="color:white">Você pode me recomendar um bom lugar para fazer trilhas?
+I'm visiting relatives.<p id="result" style="color:white">Estou visitando parentes.
+What's the nearest taxi service?<p id="result" style="color:white">Qual é o serviço de táxi mais próximo?
+Can I have the vegetarian menu, please?<p id="result" style="color:white">Posso ter o cardápio vegetariano, por favor?
+I'm going to the stadium.<p id="result" style="color:white">Vou ao estádio.
+Is there a nearby hospital?<p id="result" style="color:white">Há um hospital por perto?
+Can you please speak louder?<p id="result" style="color:white">Você pode falar mais alto, por favor?
+I'm interested in trying local cuisine.<p id="result" style="color:white">Tenho interesse em experimentar a culinária local.
+What's the nearest bookstore?<p id="result" style="color:white">Qual é a livraria mais próxima?
+When I was a child.<p id="result" style="color:white">Quando eu erá criança.
+life is an ephemeral journey, so enjoy every moment, cultivate love and pursue your dreams with determination and gratitude.<p id="result" style="color:white">a vida é uma jornada efêmera, portanto, aproveite cada momento, cultive o amor e busque a realização dos seus sonhos com determinação e gratidão.
+true success is not measured by the money you accumulate, but by the people you inspire and the positive impact you leave on the world.<p id="result" style="color:white">O verdadeiro sucesso não é medido pelo dinheiro que você acumula, mas sim pelas pessoas que você inspira e pelo impacto positivo que você deixa no mundo.
+How are you?<p id="result" style="color:white">Como vai você?
+my sow gave birth<p id="result" style="color:white">minha porca deu à luz
+the dog's paw<p id="result" style="color:white">a pata do cachorro
+Can you lend me some money?<p id="result" style="color:white">Você pode me emprestar um pouco de dinheiro?
+bed side table<p id="result" style="color:white">criado mudo
+Rick had plenty of opportunities to do this<p id="result" style="color:white">Rick teve muitas oportunidades para fazer isso.
+The clock broke down and now it shows the wrong time.<p id="result" style="color:white">O relogio quebrou e agora ele mostra a hora errada.
+Does is she wering a beautiful dress for the party?<p id="result" style="color:white">Ela está usando um vestido bonito para a festa?
+When it comes to.<p id="result" style="color:white">Quando se trata.
+Is the train late?<p id="result" style="color:white">O trem está atrasado?
+Yesterday, I took a road trip to visit my grandparents in the neighboring town.<p id="result" style="color:white">Ontem, fiz uma viagem de carro para visitar meus avós na cidade vizinha.
+During the holidays, I took the opportunity to learn how to cook new recipes.<p id="result" style="color:white">Durante as férias, aproveitei para aprender a cozinhar novas receitas.
+Last weekend, I attended in a very lively birthday party with my friends.<p id="result" style="color:white">No último final de semana, participai de uma festa de aniversário muito animada com meus amigos.

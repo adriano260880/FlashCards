@@ -1,0 +1,23 @@
+dog<p id="result" style="color:white">cachorro
+minced meat<p id="result" style="color:white">carne moida
+cat<p id="result" style="color:white">gato
+computer<p id="result" style="color:white">computador
+lesson<p id="result" style="color:white">lição
+cabinet<p id="result" style="color:white">armário
+dress<p id="result" style="color:white">vestido
+eastern<p id="result" style="color:white">oriental
+flying a kite<p id="result" style="color:white">soltar pipa
+rollerblades<p id="result" style="color:white">patins
+waist<p id="result" style="color:white">cintura
+fountain<p id="result" style="color:white">fonte
+bench<p id="result" style="color:white">banco
+ponytail<p id="result" style="color:white">rabo de cavalo
+pencil case<p id="result" style="color:white">estojo
+peeling an orange<p id="result" style="color:white">descascando uma laranja
+scallion<p id="result" style="color:white">cebolinha
+steamed<p id="result" style="color:white">cozido a vapor
+cushions<p id="result" style="color:white">almofadas
+slippers<p id="result" style="color:white">pantufas
+mop<p id="result" style="color:white">esfregão
+chest of drawer<p id="result" style="color:white">cômoda
+Worst dangers<p id="result" style="color:white"> piores perigos
